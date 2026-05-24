@@ -1,0 +1,6 @@
+{
+  "name": "Légendes Sauvages",
+  "description": "Un RPG open-world à la Zelda Breath of the Wild avec exploration en véhicules personnalisables, artisanat complet, combats contre des boss et dialogues dynamiques de PNJ, entièrement hors ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
